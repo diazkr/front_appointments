@@ -19,4 +19,4 @@ jobs:
       run: npm install --legacy-peer-deps
 
     - name: Run tests
-      run: npm test "../frontM3/src/test/"
+      run: npm test "../src/test"
